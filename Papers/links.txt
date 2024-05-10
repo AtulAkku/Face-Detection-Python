@@ -1,0 +1,8 @@
+Face Recognition Based on Videos by Using Convex Hulls
+	https://typeset.io/papers/face-recognition-based-on-videos-by-using-convex-hulls-3m3kbfuzay
+
+A Review Paper on Face Recognition Techniques
+	https://typeset.io/papers/a-review-paper-on-face-recognition-techniques-382plxlp
+
+Deep Learning Architectures for Face Recognition in Video Surveillanceee
+	https://link.springer.com/chapter/10.1007/978-981-10-5152-4_6
